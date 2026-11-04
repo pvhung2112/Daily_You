@@ -57,3 +57,9 @@ android/app/.cxx/
 
 # Current changelog
 changelog.txt
+
+# Gradle and untranslated cache
+.gradle/
+**/.gradle/
+untranslated_messages.json
+

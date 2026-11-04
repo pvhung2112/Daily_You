@@ -18,6 +18,12 @@
 
 </div>
 
+> 📘 **Báo cáo Phân tích Source Code & Tính năng:**  
+> Toàn bộ nội dung phân tích chi tiết cấu trúc mã nguồn, cơ chế xử lý video, quản lý CSDL SQLite, giao diện người dùng và cách ứng dụng khai thác phần cứng thiết bị (Camera, Lưu trữ/SAF, Lịch, Báo thức, Sinh trắc học) theo yêu cầu bài tập cá nhân được trình bày đầy đủ tại:  
+> 👉 **[BAO_CAO_PHAN_TICH_SOURCE_CODE_DAILY_YOU.md](BAO_CAO_PHAN_TICH_SOURCE_CODE_DAILY_YOU.md)**  
+> 
+> ✨ **Phiên bản này đã được Việt hóa 100%** toàn bộ 297/297 key ngôn ngữ và cấu hình mặc định Tiếng Việt cho người dùng Việt Nam.
+
 Capture the moments that matter. **Daily You** helps you log your thoughts, track your mood, and keep a diary of meaningful moments, every day. Whether you're journaling, reflecting, or just noting what made you smile, **Daily You** gives you a private space that's truly your own.
 
 Join a community that believes **your journal should be yours**, not a product.

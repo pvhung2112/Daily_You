@@ -117,6 +117,15 @@ tasks.whenTaskAdded { task ->
     if (task.name.contains("ArtProfile")) {
         task.enabled = false
     }
+    if (task.name == "assembleDebug") {
+        task.doLast {
+            def devApk = file("${project.buildDir}/outputs/flutter-apk/app-dev-debug.apk")
+            if (devApk.exists()) {
+                def targetApk = file("${project.buildDir}/outputs/flutter-apk/app-debug.apk")
+                targetApk.bytes = devApk.bytes
+            }
+        }
+    }
 }
 
 // See: https://developer.android.com/build/configure-apk-splits
